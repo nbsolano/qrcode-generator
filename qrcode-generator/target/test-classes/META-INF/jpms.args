@@ -1,0 +1,4 @@
+--patch-module
+qrcode.generator=_
+--add-reads
+qrcode.generator=ALL-UNNAMED
